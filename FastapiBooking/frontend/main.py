@@ -12,7 +12,6 @@ API_ADDRESS = os.getenv("API_BACKEND_ADRESS", "http://backend:8100")
 user_id = st.session_state.get("user_data", {}).get("user_id")
 user_name = st.session_state.get("user_data", {}).get("username")
 
-# Настройка страницы
 st.set_page_config(
     page_title="Traveller Guide",
     layout="wide"
@@ -22,7 +21,6 @@ def format_date(raw: str) -> str:
     if not raw or raw == "—":
         return "—"
     try:
-        # ISO-формат с "T" и микросекундами, возможно с "Z" на конце
         dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
         return dt.strftime("%d.%m.%Y %H:%M")
     except (ValueError, TypeError):
@@ -213,9 +211,5 @@ with center:
                         st.write(f"📅 **Booked for:** {format_date(booked_for)}")
                         st.write(f"Created at: {format_date(time_at)}")
 
-
-
-    #with info:
-        # print what is AI in use, Infromation
 
 
