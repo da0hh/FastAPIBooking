@@ -1,0 +1,14 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+sqlalchemy>=2.0.0
+pydantic>=2.0.0
+passlib[bcrypt]>=1.7.4
+aiosqlite==0.22.1
+langchain-core==1.4.8
+langchain-ollama==1.1.0
+langchain-protocol==0.0.18
+langchain-qdrant==1.1.0
+langsmith==0.9.8
+qdrant-client==1.18.0
+Flask==3.0.3
+gunicorn==23.0.0

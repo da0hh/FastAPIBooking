@@ -1,0 +1,604 @@
+[
+  {
+    "name": "White Rabbit",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.4,
+    "description": "Luxury panoramic restaurant with modern Russian cuisine. Excellent for romantic dinners, business meetings and special occasions.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=White+Rabbit+Moscow"
+  },
+  {
+    "name": "Twins Garden",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.6,
+    "description": "Fine dining restaurant with seasonal tasting menus and one of the best gastronomic experiences in Moscow.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Twins+Garden+Moscow"
+  },
+  {
+    "name": "Cafe Pushkin",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.6,
+    "description": "Historic Russian restaurant offering classic cuisine in an elegant nineteenth-century interior.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Pushkin+Moscow"
+  },
+  {
+    "name": "Grand Cafe Dr. Zhivago",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.4,
+    "description": "Popular Russian restaurant overlooking Red Square, combining traditional cuisine with a modern presentation.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Grand+Cafe+Dr+Zhivago+Moscow"
+  },
+  {
+    "name": "Matryoshka",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.6,
+    "description": "Elegant restaurant serving authentic Russian cuisine with modern touches and a cozy atmosphere.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Matryoshka+Restaurant+Moscow"
+  },
+  {
+    "name": "Taras Bulba",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.5,
+    "description": "Traditional Slavic restaurant known for hearty dishes, homemade recipes and classic interior.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Taras+Bulba+Moscow"
+  },
+  {
+    "name": "BoEmi",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.7,
+    "description": "Modern Serbian restaurant with premium grilled dishes and a stylish interior.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=BoEmi+Moscow"
+  },
+  {
+    "name": "Four Seasons Hotel Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.7,
+    "description": "Luxury five-star hotel near Red Square with spa, swimming pool and premium suites.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Four+Seasons+Hotel+Moscow"
+  },
+  {
+    "name": "Hotel Metropol Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.7,
+    "description": "Historic luxury hotel offering elegant rooms, restaurants and excellent central location.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Hotel+Metropol+Moscow"
+  },
+  {
+    "name": "The Carlton Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.7,
+    "description": "Luxury hotel with panoramic rooftop restaurant and premium guest services.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=The+Carlton+Moscow"
+  },
+  {
+    "name": "National Hotel Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.5,
+    "description": "Historic hotel overlooking the Kremlin, combining classical architecture with modern comfort.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=National+Hotel+Moscow"
+  },
+  {
+    "name": "Ararat Park Hyatt Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.7,
+    "description": "Premium business hotel featuring luxury rooms, spa facilities and gourmet restaurants.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Ararat+Park+Hyatt+Moscow"
+  },
+  {
+    "name": "Hotel Baltschug Kempinski Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.6,
+    "description": "Luxury riverside hotel with views of the Kremlin, spa and fine dining.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Baltschug+Kempinski+Moscow"
+  },
+  {
+    "name": "Pioner Cinema",
+    "city": "Moscow",
+    "category": "Cinema",
+    "rating": 4.8,
+    "description": "Independent cinema known for arthouse films, festivals and original language screenings.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Pioner+Cinema+Moscow"
+  },
+  {
+    "name": "Red Square",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "The historic heart of Moscow surrounded by famous landmarks including the Kremlin and GUM.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Red+Square+Moscow"
+  },
+  {
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "Iconic cathedral famous for its colorful domes and unique Russian architecture.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Saint+Basil+Cathedral+Moscow"
+  },
+  {
+    "name": "Bolshoi Theatre",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "World-famous theatre presenting opera and ballet performances throughout the year.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Bolshoi+Theatre+Moscow"
+  },
+  {
+    "name": "SAVVA",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.8,
+    "description": "Fine dining restaurant located inside Hotel Metropol. Modern Russian cuisine with premium service.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=SAVVA+Moscow"
+  },
+  {
+    "name": "Beluga",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.8,
+    "description": "Upscale Russian restaurant famous for seafood, caviar and elegant interior overlooking Red Square.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Beluga+Restaurant+Moscow"
+  },
+  {
+    "name": "Ruski",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.7,
+    "description": "Restaurant on the 85th floor of Moscow City offering panoramic views and modern Russian cuisine.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Ruski+Restaurant+Moscow"
+  },
+  {
+    "name": "Butcher",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.8,
+    "description": "Premium steakhouse serving high-quality beef and grilled dishes in a modern atmosphere.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Butcher+Moscow"
+  },
+  {
+    "name": "FLØR",
+    "city": "Moscow",
+    "category": "Restaurant",
+    "rating": 4.7,
+    "description": "Contemporary European restaurant with seasonal ingredients and stylish interior.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=FLOR+Restaurant+Moscow"
+  },
+  {
+    "name": "Lotte Hotel Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.8,
+    "description": "Luxury five-star hotel featuring spacious rooms, spa, fine dining and premium service.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Lotte+Hotel+Moscow"
+  },
+  {
+    "name": "Radisson Collection Hotel Moscow",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.7,
+    "description": "Iconic skyscraper hotel with river views, luxury rooms, restaurants and wellness center.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Radisson+Collection+Hotel+Moscow"
+  },
+  {
+    "name": "Swissotel Krasnye Holmy",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.7,
+    "description": "Modern luxury hotel offering panoramic city views, spa and premium business facilities.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Swissotel+Krasnye+Holmy+Moscow"
+  },
+  {
+    "name": "Mövenpick Moscow Taganskaya",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.6,
+    "description": "Modern Swiss-style hotel with elegant rooms, wellness center and conference facilities.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Movenpick+Moscow+Taganskaya"
+  },
+  {
+    "name": "Hyatt Regency Moscow Petrovsky Park",
+    "city": "Moscow",
+    "category": "Hotel",
+    "rating": 4.6,
+    "description": "Premium business hotel overlooking Petrovsky Park with spa and indoor swimming pool.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Hyatt+Regency+Petrovsky+Park+Moscow"
+  },
+  {
+    "name": "KARO 11 Oktyabr",
+    "city": "Moscow",
+    "category": "Cinema",
+    "rating": 4.7,
+    "description": "Large multiplex cinema hosting movie premieres and international film festivals.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=KARO+11+Oktyabr+Moscow"
+  },
+  {
+    "name": "Moskino Kosmos",
+    "city": "Moscow",
+    "category": "Cinema",
+    "rating": 4.7,
+    "description": "Popular cinema near VDNKh offering a wide selection of movies and comfortable halls.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Moskino+Kosmos+Moscow"
+  },
+  {
+    "name": "Zaryadye Park",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "Modern urban park featuring the Floating Bridge, concert hall and panoramic Kremlin views.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Zaryadye+Park+Moscow"
+  },
+  {
+    "name": "Moscow Kremlin",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "Historic fortified complex with cathedrals, museums and official government buildings.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Moscow+Kremlin"
+  },
+  {
+    "name": "Tretyakov Gallery",
+    "city": "Moscow",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "The largest collection of Russian fine art from medieval icons to modern masterpieces.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Tretyakov+Gallery+Moscow"
+  },
+  {
+    "name": "Moscow Zoo",
+    "city": "Moscow",
+    "category": "Landmark",
+    "rating": 4.4,
+    "description": "One of Europe's oldest zoos featuring thousands of animals and educational exhibitions.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Moscow+Zoo"
+  },
+  {
+    "name": "Tsaritsyno Museum-Reserve",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "Large historical park with palaces, museums, lakes and landscaped gardens.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Tsaritsyno+Museum+Reserve"
+  },
+  {
+    "name": "Kolomenskoye Museum-Reserve",
+    "city": "Moscow",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "Historic estate with beautiful parks, churches and panoramic views over the Moscow River.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Kolomenskoye+Moscow"
+  },
+  {
+    "name": "Sokolniki Park",
+    "city": "Moscow",
+    "category": "Park",
+    "rating": 4.7,
+    "description": "Large public park with cycling paths, attractions, cafés and seasonal festivals.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Sokolniki+Park+Moscow"
+  },
+
+
+
+  {
+    "name": "Hermitage Museum",
+    "city": "Saint Petersburg",
+    "category": "Museum",
+    "rating": 4.8,
+    "description": "One of the largest museums in the world with an enormous collection of art, historical artifacts and cultural treasures. Perfect for history lovers and tourists.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Hermitage+Museum+Saint+Petersburg"
+  },
+  {
+    "name": "Russian Museum",
+    "city": "Saint Petersburg",
+    "category": "Museum",
+    "rating": 4.8,
+    "description": "The largest collection of Russian art, including paintings, sculptures and historical works. Great place for cultural trips and art enthusiasts.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Russian+Museum+Saint+Petersburg"
+  },
+  {
+    "name": "Peterhof Palace",
+    "city": "Saint Petersburg",
+    "category": "Landmark",
+    "rating": 4.9,
+    "description": "A famous palace and park complex with beautiful fountains, gardens and impressive architecture. One of the best places for sightseeing.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Peterhof+Palace+Saint+Petersburg"
+  },
+  {
+    "name": "Saint Isaac's Cathedral",
+    "city": "Saint Petersburg",
+    "category": "Landmark",
+    "rating": 4.9,
+    "description": "A magnificent historical cathedral with unique architecture and a panoramic observation deck offering views of the city.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Saint+Isaacs+Cathedral+Saint+Petersburg"
+  },
+  {
+    "name": "Church of the Savior on Spilled Blood",
+    "city": "Saint Petersburg",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "A famous Russian architectural landmark known for colorful domes, detailed mosaics and its historical significance.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Savior+on+Spilled+Blood+Saint+Petersburg"
+  },
+  {
+    "name": "Kazan Cathedral",
+    "city": "Saint Petersburg",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "A famous cathedral in the city center with impressive architecture and historical importance. Popular among tourists.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Kazan+Cathedral+Saint+Petersburg"
+  },
+  {
+    "name": "Summer Garden",
+    "city": "Saint Petersburg",
+    "category": "Park",
+    "rating": 4.7,
+    "description": "A historic garden with sculptures, walking paths and peaceful atmosphere. A great place for relaxing in the city center.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Summer+Garden+Saint+Petersburg"
+  },
+  {
+    "name": "Peter and Paul Fortress",
+    "city": "Saint Petersburg",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "A historic fortress and museum complex located on an island. Excellent place to learn about the history of Saint Petersburg.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Peter+and+Paul+Fortress+Saint+Petersburg"
+  },
+  {
+    "name": "Kokoko Restaurant",
+    "city": "Saint Petersburg",
+    "category": "Restaurant",
+    "rating": 4.5,
+    "description": "Modern Russian cuisine restaurant with creative dishes based on traditional ingredients. Suitable for special dinners and discovering local flavors.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Kokoko+Restaurant+Saint+Petersburg"
+  },
+  {
+    "name": "Severyanin Restaurant",
+    "city": "Saint Petersburg",
+    "category": "Restaurant",
+    "rating": 4.6,
+    "description": "Elegant restaurant serving traditional Russian cuisine with a modern approach. Good choice for business meetings and classic dining experiences.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Severyanin+Restaurant+Saint+Petersburg"
+  },
+  {
+    "name": "Harvest Restaurant",
+    "city": "Saint Petersburg",
+    "category": "Restaurant",
+    "rating": 4.5,
+    "description": "Stylish modern restaurant focused on vegetables, seasonal products and contemporary European cuisine. Popular for stylish dinners.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Harvest+Restaurant+Saint+Petersburg"
+  },
+  {
+    "name": "Bekitzer",
+    "city": "Saint Petersburg",
+    "category": "Restaurant",
+    "rating": 4.6,
+    "description": "Popular Israeli-style restaurant with a lively atmosphere, creative dishes and casual dining experience.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Bekitzer+Saint+Petersburg"
+  },
+  {
+    "name": "Mansarda Restaurant",
+    "city": "Saint Petersburg",
+    "category": "Restaurant",
+    "rating": 4.5,
+    "description": "Panoramic restaurant with views of Saint Petersburg landmarks. Great for romantic dinners, celebrations and city views.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Mansarda+Restaurant+Saint+Petersburg"
+  },
+  {
+    "name": "Coffee 22",
+    "city": "Saint Petersburg",
+    "category": "Cafe",
+    "rating": 4.6,
+    "description": "Cozy specialty coffee shop with quality coffee, desserts and a relaxed atmosphere. Good for working or meeting friends.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Coffee+22+Saint+Petersburg"
+  },
+  {
+    "name": "Shtolle",
+    "city": "Saint Petersburg",
+    "category": "Cafe",
+    "rating": 4.5,
+    "description": "Traditional cafe famous for Russian pies and homemade-style food. Suitable for casual meals and family visits.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Shtolle+Saint+Petersburg"
+  },
+  {
+    "name": "BGL Cafe",
+    "city": "Saint Petersburg",
+    "category": "Cafe",
+    "rating": 4.5,
+    "description": "Modern cafe specializing in bagels, coffee and simple breakfasts. Popular place for morning meals and casual meetings.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=BGL+Cafe+Saint+Petersburg"
+  },
+  {
+    "name": "Faberge Museum",
+    "city": "Saint Petersburg",
+    "category": "Museum",
+    "rating": 4.8,
+    "description": "Private museum featuring the famous Faberge jewelry collection and luxurious historical exhibits.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Faberge+Museum+Saint+Petersburg"
+  },
+  {
+    "name": "Russian Cruiser Aurora",
+    "city": "Saint Petersburg",
+    "category": "Landmark",
+    "rating": 4.7,
+    "description": "Historic naval ship and museum located on the Neva River. Interesting place for history enthusiasts and tourists.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Cruiser+Aurora+Saint+Petersburg"
+  },
+
+
+
+
+  {
+    "name": "Smolensk Fortress Wall",
+    "city": "Smolensk",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "A historic fortress wall built in the 16th century. One of the main symbols of Smolensk and an important monument of Russian military architecture.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Smolensk+Fortress+Wall"
+  },
+  {
+    "name": "Assumption Cathedral",
+    "city": "Smolensk",
+    "category": "Landmark",
+    "rating": 4.9,
+    "description": "A famous Orthodox cathedral located on a hill overlooking the city. Known for its impressive architecture and historical significance.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Assumption+Cathedral+Smolensk"
+  },
+  {
+    "name": "Lopatinsky Garden",
+    "city": "Smolensk",
+    "category": "Park",
+    "rating": 4.7,
+    "description": "A historic city park with walking paths, monuments, attractions and relaxing green areas. Popular among locals and families.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Lopatinsky+Garden+Smolensk"
+  },
+  {
+    "name": "Blonie Garden",
+    "city": "Smolensk",
+    "category": "Park",
+    "rating": 4.6,
+    "description": "A central city park with open spaces, walking areas and monuments. A good place for relaxing and evening walks.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Blonie+Garden+Smolensk"
+  },
+  {
+    "name": "Smolensk Art Gallery",
+    "city": "Smolensk",
+    "category": "Museum",
+    "rating": 4.7,
+    "description": "A museum with a collection of Russian and European paintings, graphics and decorative art.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Smolensk+Art+Gallery"
+  },
+  {
+    "name": "Museum of the Great Patriotic War",
+    "city": "Smolensk",
+    "category": "Museum",
+    "rating": 4.7,
+    "description": "A historical museum dedicated to World War II events in the Smolensk region with military exhibits and documents.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Museum+of+the+Great+Patriotic+War+Smolensk"
+  },
+  {
+    "name": "Gromovaya Tower",
+    "city": "Smolensk",
+    "category": "Landmark",
+    "rating": 4.7,
+    "description": "A preserved tower of the Smolensk fortress wall that represents the city's medieval defensive architecture.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Gromovaya+Tower+Smolensk"
+  },
+  {
+    "name": "Smolensk Cathedral Hill",
+    "city": "Smolensk",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "A historic elevated area near the Assumption Cathedral offering beautiful views of the city and surrounding architecture.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Cathedral+Hill+Smolensk"
+  },
+  {
+    "name": "Garden of Memory",
+    "city": "Smolensk",
+    "category": "Park",
+    "rating": 4.6,
+    "description": "A peaceful memorial area dedicated to historical events and important figures connected with the city.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Garden+of+Memory+Smolensk"
+  },
+  {
+    "name": "Smolensk Zoo",
+    "city": "Smolensk",
+    "category": "Entertainment",
+    "rating": 4.5,
+    "description": "A family-friendly place featuring animals, educational programs and activities for children.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Smolensk+Zoo"
+  },
+
+
+
+  {
+    "name": "Rostov Zoo",
+    "city": "Rostov-on-Don",
+    "category": "Entertainment",
+    "rating": 4.6,
+    "description": "One of the largest zoos in Russia with many animal species, green areas and family-friendly activities.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Rostov+Zoo"
+  },
+  {
+    "name": "Rostov Regional Museum of Fine Arts",
+    "city": "Rostov-on-Don",
+    "category": "Museum",
+    "rating": 4.7,
+    "description": "A museum featuring Russian and European paintings, sculptures and decorative art collections.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Rostov+Regional+Museum+of+Fine+Arts"
+  },
+  {
+    "name": "Rostov Regional Museum of Local History",
+    "city": "Rostov-on-Don",
+    "category": "Museum",
+    "rating": 4.6,
+    "description": "A historical museum dedicated to the culture, traditions and history of the Don region.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Rostov+Regional+Museum+of+Local+History"
+  },
+  {
+    "name": "Pushkin Street",
+    "city": "Rostov-on-Don",
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "A popular pedestrian street with cafes, restaurants, old architecture and a pleasant atmosphere for walking.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Pushkin+Street+Rostov-on-Don"
+  },
+  {
+    "name": "Rostov Embankment",
+    "city": "Rostov-on-Don",
+    "category": "Park",
+    "rating": 4.8,
+    "description": "A scenic riverside area along the Don River with walking paths, cafes and beautiful views.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Rostov+Embankment"
+  },
+  {
+    "name": "Paramonov Warehouses",
+    "city": "Rostov-on-Don",
+    "category": "Landmark",
+    "rating": 4.7,
+    "description": "Historic 19th-century warehouses near the Don River known for their unique architecture and cultural significance.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Paramonov+Warehouses+Rostov-on-Don"
+  },
+  {
+    "name": "Rostov Cathedral of the Nativity of the Blessed Virgin",
+    "city": "Rostov-on-Don",
+    "category": "Landmark",
+    "rating": 4.8,
+    "description": "A historic Orthodox cathedral with impressive architecture and one of the main religious landmarks of the city.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Rostov+Cathedral+of+the+Nativity"
+  },
+  {
+    "name": "Revolution Park",
+    "city": "Rostov-on-Don",
+    "category": "Park",
+    "rating": 4.7,
+    "description": "A popular city park with walking areas, attractions, fountains and entertainment options for visitors.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Revolution+Park+Rostov-on-Don"
+  },
+  {
+    "name": "October Revolution Park",
+    "city": "Rostov-on-Don",
+    "category": "Park",
+    "rating": 4.6,
+    "description": "A large green area with recreation zones, sports facilities and places for family activities.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=October+Revolution+Park+Rostov-on-Don"
+  },
+  {
+    "name": "Rostov Arena",
+    "city": "Rostov-on-Don",
+    "category": "Entertainment",
+    "rating": 4.6,
+    "description": "A modern football stadium built for the 2018 FIFA World Cup. A popular place for sports events and concerts.",
+    "place_address_url": "https://www.google.com/maps/search/?api=1&query=Rostov+Arena"
+  }
+]
